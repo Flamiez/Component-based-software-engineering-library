@@ -1,3 +1,21 @@
+Metadata-Version: 2.4
+Name: benchmark-functions
+Version: 0.1.0
+Summary: Collection of benchmark mathematical functions for optimization
+Author: Noogie
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: scipy>=1.7.0
+Dynamic: license-file
+
 # Benchmark Functions Library
 
 A collection of benchmark mathematical functions for optimization purposes. This library provides a set of well-known mathematical functions commonly used in optimization algorithms, machine learning, and mathematical research.
