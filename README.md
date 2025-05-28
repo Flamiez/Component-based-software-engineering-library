@@ -4,8 +4,7 @@ A collection of benchmark mathematical functions for optimization purposes. This
 
 ## Features
 
-- Collection of 9 benchmark functions:
-  - Colebrook function
+- Collection of 8 benchmark functions:
   - Ackley function
   - Gramacy and Lee function
   - Griewank function
