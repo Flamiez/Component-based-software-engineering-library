@@ -17,7 +17,7 @@ A collection of benchmark mathematical functions for optimization purposes. This
 ## Installation
 
 ```bash
-pip install benchmark_functions-0.1.0-py3-none-any.whl
+pip install dist/benchmark_functions-0.1.0-py3-none-any.whl
 ```
 
 ## Quick Start
